@@ -7,3 +7,10 @@ New line from Vim
 import numpy as np
 print("Hello")
 ```
+
+New line from VS code
+
+```python
+import scipy
+print("World")
+```
